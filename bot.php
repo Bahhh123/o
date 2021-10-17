@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setwebhook?url=<url>
+///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setwebhook?url=https://github.com/Bahhh123/o/main/bot.php
 
 
 
